@@ -5,4 +5,6 @@ Detects and blocks Discord alt/fake accounts used for spamming/vandalism, giveaw
 The program checks if the detail of the Discord Account meets different conditions, e.g.:
 - New account
 - No profile picture
+- No profile links
+- No status text
 - etc.
